@@ -1,0 +1,42 @@
+body{
+   font-family: 'Satisfy', cursive; 
+   background-color:rgb(159, 243, 159);
+}
+
+.header_div
+{
+    background: white;
+    color:rgb(0, 4, 240) ;
+}
+
+.header_div p
+{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color:aqua;
+letter-spacing: 2px;
+font-size: 14px;
+font-weight: bold;
+}
+
+.main_div button 
+{
+font-family:Verdana, Geneva, Tahoma, sans-serif ;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(0, 151, 156);
+    bottom:0;
+    width:100%;
+    font-size:  22px;
+    background-color :#f5f5f5 ;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(99, 99, 99);
+
+}
